@@ -1,0 +1,167 @@
+[
+	{
+		"origin": "FRA",
+		"destination": "HHN",
+		"departureDate": "01-03-2022",
+		"returnDate": "01-07-2022",
+		"seatAvailability": "10",
+		"amount": "800",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 1
+	},
+	{
+		"origin": "FRA",
+		"destination": "HHN",
+		"departureDate": "01-01-2022",
+		"returnDate": "01-05-2022",
+		"seatAvailability": "20",
+		"amount": "800",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 2
+	},
+	{
+		"origin": "FDH",
+		"destination": "MUC",
+		"departureDate": "06-28-2021",
+		"returnDate": "06-30-2021",
+		"seatAvailability": "15",
+		"amount": "350",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 3
+	},
+	{
+		"origin": "FRA",
+		"destination": "FDH",
+		"departureDate": "10-01-2021",
+		"returnDate": "10-07-2022",
+		"seatAvailability": "",
+		"amount": "800",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 44
+	},
+	{
+		"origin": "FDH",
+		"destination": "MUC",
+		"departureDate": "04-28-2022",
+		"returnDate": "04-30-2022",
+		"seatAvailability": "15",
+		"amount": "350",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 46
+	},
+	{
+		"origin": "FDH",
+		"destination": "MUC",
+		"departureDate": "06-20-2021",
+		"returnDate": "06-30-2021",
+		"seatAvailability": "15",
+		"amount": "350",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 47
+	},
+	{
+		"origin": "FRA",
+		"destination": "FDH",
+		"departureDate": "01-14-2021",
+		"returnDate": "01-20-2021",
+		"seatAvailability": "30",
+		"amount": "400",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 5
+	},
+	{
+		"origin": "FRA",
+		"destination": "HHN",
+		"departureDate": "03-11-2022",
+		"returnDate": "03-17-2022",
+		"seatAvailability": "17",
+		"amount": "600",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 6
+	},
+	{
+		"origin": "FDH",
+		"destination": "MUC",
+		"departureDate": "04-03-2022",
+		"returnDate": "04-07-2022",
+		"seatAvailability": "10",
+		"amount": "650",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 7
+	},
+	{
+		"origin": "MUC",
+		"destination": "FDH",
+		"departureDate": "06-03-2022",
+		"returnDate": "06-03-2022",
+		"seatAvailability": "18",
+		"amount": "500",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 8
+	},
+	{
+		"origin": "FRA",
+		"destination": "FDH",
+		"departureDate": "12-28-2021",
+		"returnDate": "12-30-2021",
+		"seatAvailability": "21",
+		"amount": "400",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 9
+	},
+	{
+		"origin": "MUC",
+		"destination": "HHN",
+		"departureDate": "07-03-2022",
+		"returnDate": "07-03-2022",
+		"seatAvailability": "5",
+		"amount": "500",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 10
+	},
+	{
+		"origin": "MUC",
+		"destination": "HHN",
+		"departureDate": "01-18-2022",
+		"returnDate": "01-23-2022",
+		"seatAvailability": "10",
+		"amount": "780",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 11
+	},
+	{
+		"origin": "HHN",
+		"destination": "MUC",
+		"departureDate": "01-14-2022",
+		"returnDate": "01-19-2022",
+		"seatAvailability": "0",
+		"amount": "200",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 12
+	},
+	{
+		"origin": "HHN",
+		"destination": "FRA",
+		"departureDate": "03-02-07-2022",
+		"returnDate": "07-01-2022",
+		"seatAvailability": "0",
+		"amount": "200",
+		"currency": "EUR",
+		"offerType": "",
+		"id": 14
+	}
+]

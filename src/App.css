@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.flight-date {
+  font-weight: bold;
+}
+
+.gridinfo {
+  padding-top: 1em;
+}
+
+.grid-list {
+  overflow-y: inherit !important;
+}
+
+.selected-date {
+  background-color: #c6efff !important;
+}
+
+.direct-fight {
+  font-size:0.8em;
+}
